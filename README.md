@@ -2,7 +2,7 @@
 
 **Title: Tennis Racquet Data Scraping and Analysis**
 
-This project involves web scraping to gather data on tennis racquets from various manufacturers. The data is extracted from a tennis racquet finder website, including details such as head size, balance, swing weight, power level, stiffness, and string pattern. The data is then organized into a structured format and exported to an Excel file for further analysis.
+This project involves web scraping to gather data on tennis racquets from various manufacturers. The data is extracted from a tennis racquet finder website, including details such as head size, balance, swing weight, power level, stiffness, and string pattern. The data is then organized into a structured format and exported to an Excel file (or PowerBI, Tableau) for further analysis.
 
 ### Key Features:
 - **Web Scraping:** Used `requests` and `BeautifulSoup` to scrape data from a website listing various tennis racquets.
@@ -15,3 +15,5 @@ This project involves web scraping to gather data on tennis racquets from variou
 - **Data Scraping:** HTML parsing, web data extraction
 - **Data Organization:** DataFrame manipulation, data categorization
 - **File Export:** Excel file creation using pandas
+
+<img width="744" alt="image" src="https://github.com/user-attachments/assets/6ec2e97b-0f53-4593-ba14-82be413683bf">
